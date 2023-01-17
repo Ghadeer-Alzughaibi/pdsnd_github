@@ -3,6 +3,9 @@
 ### Date created
 18 jan 2023
 
+### Day created
+Wednesday
+
 ### Project Title
 Bikeshare project
 
