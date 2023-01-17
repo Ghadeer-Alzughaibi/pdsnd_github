@@ -116,6 +116,9 @@ def user_stats(df,city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+def aboutMe():
+    print("I am Ghadeer Alzughaibi")
+    print("I have Bachelor's Degree of Information Systems")
 
 def main():
     while True:
