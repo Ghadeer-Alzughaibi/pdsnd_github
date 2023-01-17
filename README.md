@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+used githup to push the modified files in my computer to githup.
 
 ### Files used
 1-chicago.csv
